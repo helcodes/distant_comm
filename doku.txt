@@ -1,0 +1,20 @@
+nodejs
+serverseitig
+vs javascript: frontend + interaktion mit user
+für kleine cli-tools bis zu eigenständigen http-serverh
+installation (inkl npm)
+
+npm:
+-g -> global
+-save-dev -> nur zur entwicklung
+
+neues projekt:
+ordner, npm init (package.json)
+
+package.json:
+scripts: skripe für testroutinen
+
+packages:
+nodemon: erkennt dateiänderungen + startet node.js neues
+dotenv: umgebungsvariablen
+express: webserver um dem user inhalte im browser zu liefern
